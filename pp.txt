@@ -1,1 +1,8 @@
-Оператор и иные лица, получившие доступ к персональным данным, обязаны не раскрывать третьим лицам и не распространять персональные данные без согласия субъекта персональных данных, если иное не предусмотрено федеральным законом.
+The operator and other persons who have gained access to personal data are obliged not to disclose to third parties or distribute personal data without the consent of the subject of the personal data, unless otherwise provided by federal law.
+
+Service providers:
+pip64.
+
+You must use the bot as directed.
+By adding the bot to the server, you agree that it will store the following information: server ID, channel IDs, messages.
+You must not create artificial load on the bot.
