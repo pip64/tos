@@ -1,6 +1,6 @@
-Поставщики услуг:
-pip64#6941
+Service providers:
+pip64.
 
-Вы должны использовать бота по его прямому направлению.
-Добавляя бота на сервер, вы соглашаетесь, что он будет хранить следующую информацию: ID сервера, ID каналов, сообщения.
-Вы не должны создавать искусственную нагрузку на бота.
+You must use the bot as directed.
+By adding the bot to the server, you agree that it will store the following information: server ID, channel IDs, messages.
+You must not create artificial load on the bot.
